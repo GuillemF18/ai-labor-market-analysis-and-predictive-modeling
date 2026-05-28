@@ -29,7 +29,7 @@ The goal of this university project is to analyze the AI job market using a data
 
 Our project includes an advanced interactive Plotly scatter plot (PC1, PC2, PC3) combined with a hover-based scanner panel to slice the multi-dimensional feature space through PC4 and PC5. 
 
-Warning Note on Rendering: GitHub does not natively render dynamic or interactive Javascript plots within notebook previews. 
+Warning Note on Rendering: GitHub does not natively render dynamic or interactive plots within notebook previews. 
 
 To experience the full 5D interactive dashboard, you have two options:
 1. Run the code locally: Clone this repository, install the dependencies, and run ai_labor_market_analysis_notebook.ipynb on your own machine.
