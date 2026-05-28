@@ -33,7 +33,7 @@ Warning Note on Rendering: GitHub does not natively render dynamic or interactiv
 
 To experience the full 5D interactive dashboard, you have two options:
 1. Run the code locally: Clone this repository, install the dependencies, and run ai_labor_market_analysis_notebook.ipynb on your own machine.
-2. Watch the live demo: Check out our YouTube Walkthrough Video at https://youtu.be/f-Qh-Iia58g to see the interactive slicing framework, boundary adjustments, and cluster separating planes in action.
+2. Watch the live demo: Check out our YouTube Video at https://youtu.be/f-Qh-Iia58g to see the interactive visual framework, and cluster separating plane in action.
 
 ---
 
