@@ -41,3 +41,17 @@ To experience the full 5D interactive dashboard, you have two options:
 *   Marc Font
 *   Guillem Fernández
 *   Elías Barreiro
+
+---
+
+## Dataset & References
+
+The analysis and models in this project were trained and evaluated using the following public dataset:
+
+*   **Dataset:** AI Jobs Market 2025-2026 | Salaries
+*   **Author:** A. Alitaqishah (Kaggle, 2026)
+*   **Source:** [Kaggle Dataset Link](https://www.kaggle.com/datasets/alitaqishah/ai-jobs-market-2025-2026-salaries)
+
+### Citation (IEEE Format)
+```text
+[1] A. Alitaqishah, "AI Jobs Mas Market 2025-2026 | Salaries," Kaggle, 2026. [Online]. Available: [https://www.kaggle.com/datasets/alitaqishah/ai-jobs-market-2025-2026-salaries](https://www.kaggle.com/datasets/alitaqishah/ai-jobs-market-2025-2026-salaries)
