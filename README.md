@@ -41,5 +41,3 @@ To experience the full 5D interactive dashboard, you have two options:
 *   Marc Font
 *   Guillem Fernández
 *   Elías Barreiro
-
-Data Engineering Students at Universitat Autònoma de Barcelona (UAB).
